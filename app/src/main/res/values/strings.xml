@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ForVenders</string>
+
+    <string name="facebook_app_id">3278851908800636</string>
+    <string name="fb_login_protocol_scheme">fb3278851908800636</string>
+    <string name="permission_text" tools:ignore="ExtraTranslation">Please enable ALL permissions from app settings.</string>
+</resources>
